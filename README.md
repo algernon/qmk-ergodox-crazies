@@ -13,6 +13,11 @@ $ git clone https://github.com/algernon/qmk-ergodox-crazies.git keymaps/crazies
 $ make KEYMAP=crazies VARIANT=supercoder
 ```
 
+## Included crazies
+
+* [SuperCoder 2000](variants/supercoder#readme)
+* [Hodor](variants/hodor#readme)
+
 ## License
 
 These layouts are released under the terms of the
